@@ -11,13 +11,13 @@
 ## 🚀 About Me
 
 🎓 I'm currently enrolled in:
-- 💻 **ALX** – Back-End Web Development Program
-- 🤖 **Power Learn Project (PLP)** – AI for Software Engineering Track
+- 💻 **ALX** – Back-End Web Development Program  
+- 🤖 **Power Learn Project (PLP)** – AI for Software Engineering Track  
 
 🌱 I’m passionate about:
-- Building tech solutions for **agriculture**
-- Exploring **AI**, **ML**, **LLMs**, and **Deep Learning**
-- Designing scalable systems using **APIs** and modern frameworks
+- Building tech solutions for **agriculture**  
+- Exploring **AI**, **ML**, **LLMs**, and **Deep Learning**  
+- Designing scalable systems using **APIs** and modern frameworks  
 
 🌍 My mission is to:
 > _Bridge the gap between technology and the agricultural sector by solving real-world problems with scalable software._
@@ -49,20 +49,20 @@
 
 ## 🧪 Projects & Interests
 
-🚜 **Agritech Focus**  
+🚜 **Agritech Focus**
 - AI-powered crop disease detection  
 - Market match platforms for farmers  
-- Smart assistant for livestock monitoring
+- Smart assistant for livestock monitoring  
 
 📊 **AI & Data**  
 - Machine learning pipelines with scikit-learn  
 - Deep learning models using TensorFlow & PyTorch  
-- Exploratory data analysis with Pandas & NumPy
+- Exploratory data analysis with Pandas & NumPy  
 
 🔧 **Software Engineering**
 - RESTful APIs for scalable backend systems  
 - CRUD apps with Python and Node.js  
-- Git/GitHub-based team collaboration
+- Git/GitHub-based team collaboration  
 
 ---
 
@@ -71,7 +71,23 @@
 - ✅ Master full-stack web development  
 - ✅ Dive deeper into LLMs and Generative AI  
 - ✅ Build open-source AgriTech solutions  
-- ✅ Prepare for global software engineering roles
+- ✅ Prepare for global software engineering roles  
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kendi7&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendi7&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kendi7&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
