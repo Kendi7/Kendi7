@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <h1 align="center">Hi there 👋, I'm Kennedy Otieno</h1>
-<h3 align="center">Aspiring Full-Stack Software Engineer | AI & Data Enthusiast | Tech for Agriculture Advocate</h3>
+<h3 align="center">Software Engineer | AI & Data Enthusiast | Tech for Agriculture Advocate</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Back-End%20Developer%20|%20AI%20for%20SE%20Explorer;Bridging%20Tech%20%26%20Agriculture;Building%20Meaningful%20Solutions" />
